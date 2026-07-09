@@ -1,0 +1,4 @@
+Model,Best Parameters,Best CV MAE
+Random Forest,"{'max_depth': 10, 'min_samples_leaf': 2, 'n_estimators': 300}",2.3195753617063968
+XGBoost,"{'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 100}",2.2999020082522663
+MLP,"{'mlp__activation': 'relu', 'mlp__alpha': 0.0001, 'mlp__hidden_layer_sizes': (64,), 'mlp__learning_rate_init': 0.001}",2.362259693325106
