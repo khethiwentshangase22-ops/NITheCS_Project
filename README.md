@@ -102,8 +102,6 @@ The project uses the following Python libraries:
 
 ## Repository Contents
 
-Recommended files in this repository:
-
 ```text
 Temperature_Prediction.ipynb
 README.md
@@ -120,8 +118,8 @@ model_comparison_resuls
 
 ## Project Context
 
-This project is completed as part of the NITheCS research project work for the WInter Internship Programme.
+This project is completed as part of the NITheCS research project work for the Winter Internship Programme.
 
 ## AI Declaration
 
-Microsoft Copilot/ChatGPT was used as a support tool to help clarify concepts, improve wording, structure explanations, and assist with code organisation. All results, interpretations, and final decisions were reviewed and verified by the author. The final work reflects the author's own understanding and responsibility.
+Microsoft Copilot was used as a support tool to help clarify concepts, improve wording, structure explanations, and assist with code organisation. All results, interpretations, and final decisions were reviewed and verified by the author. The final work reflects the author's own understanding and responsibility.
