@@ -1,0 +1,7 @@
+Model,Method,Confidence Level,Coverage,Average Interval Width
+MLP,Gaussian Residual,90%,89.22,9.56
+MLP,Split Conformal,90%,89.39,9.89
+Random Forest,Gaussian Residual,90%,88.39,9.69
+Random Forest,Split Conformal,90%,88.89,10.11
+XGBoost,Gaussian Residual,90%,88.06,9.51
+XGBoost,Split Conformal,90%,88.23,9.64
